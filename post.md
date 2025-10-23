@@ -80,25 +80,79 @@ The other option is for Coke to stop liking Trump. Coke distances itself from Tr
 
 ![Trump-Coke Resolution Options](assets/trump_coke_resolution.png)
 
-So people boycott Coke, boycott Bud Light—who cares? It's just consumer choices, right? The thing about this balance theory is that it scales. And when you apply it to social graphs, it can lead to quite dramatic outcomes.
+So people stop drinking Coke or Bud Light—who cares? It's probably better for them anyway, right? The thing about this balance theory is that it scales. And when you apply it to broader communities of people (modeled as a social graph) the results can be quite dramatic.
 
+## How Polarization Tears Communities Apart
 
+Think about a friend group. Six people who've known each other for years. They have dinners together, go on trips, celebrate birthdays.
 
---------------------------------
+But then (and this may sound familiar) Trump comes into the picture: three of them love Trump, and three of them hate him. However, they formed this position (whether it be the through the media, the newspaper, or facebook), it's non-negotiable. 
 
+![Initial State: Harmonious Community](polarization_demo/01_initial_state.png)
+
+Alice and Dave have been friends since college. They're in group chats together, they went to each other's weddings. But now, Alice loves Trump and Dave can't stand him.
+
+This is another unbalanced triangle: ++-. And forget the math, as we know in our politically polarized world, it's hard to be friends with someone who loves a politician you despise. (It should be noted also that the fact that Trump is the polarizing figure is irrelevant; the mechanism is the same whether it's Trump or Pelosi or whoever else.) 
+
+So, since this negative edge is so strong, the friendship is unsustainable. Not because Alice and Dave don't care about each other. But because this fundamental disagreement about a polarizing figure creates a tension that pervades everything. They can't talk about politics. One of them is always biting their tongue. Every news cycle is a minefield. The friendship that once felt easy now requires constant emotional labor.
+
+If you've lived through the Trump era, you know this feeling. You've either been Alice or Dave. Maybe you've lost friends over it. Maybe you're the one who pulled away. Maybe you just stopped returning calls, stopped showing up, let the relationship quietly dissolve because it became too hard to maintain. 
+
+And it's not just one friendship. In this friend group of six, every person who loves Trump has this tension with every person who hates Trump. That's nine unbalanced triangles spread across the network. The entire community is a web of unsustainable relationships.
+
+So what happens? The only way to resolve these unbalanced triangles is for friendships to break. But this isn't a clean process towards stability. It doesn't happen all at once. It gets worse first.
+
+![Energy Dynamics: The Path to Polarization](polarization_demo/energy_dynamics.png)
+
+When we measure the "energy" of this network—counting how many unbalanced triangles exist—the initial state starts at 9. That's nine points of tension, nine unsustainable relationships. You might think: okay, if Alice breaks with Dave, that should reduce the tension, right?
+
+Wrong. It gets worse first.
+
+The normal way you'd solve a problem like this—finding a balanced state in a network—is through something called gradient descent. It's the same technique used in machine learning algorithms. The idea is simple: you look for a move that takes the energy of the whole network down. In this case, a "move" means flipping an edge—breaking a friendship or improving one. You scan through all possible moves, find the one that reduces the most unbalanced triangles, make that move, and repeat. It's a rational, systematic way to reach stability.
+
+The problem is this method completely breaks down when there are no moves that lower the energy. And in our Trump friend group scenario, that's exactly what happens. Not only is there no move that lowers the energy—every single possible move makes things worse initially.
+
+When the first friendship breaks, the energy actually goes up—from 9 to 13. More people get upset. More relationships become strained. It feels like the community is falling apart, and in a sense, it is. The second break makes it worse still: energy climbs to 15.
+
+The only way to escape this trap is through something called hill climbing. You have to accept moves that make things worse, hoping that if you climb high enough, you'll find a path down the other side to a better state. In practice, this means introducing some random probability that you'll make an irrational move—breaking a friendship even though it increases tension—just to escape being stuck.
+
+But here's the thing: the hill you have to climb in this scenario is dramatic. It requires multiple seemingly irrational moves in sequence, each one making things worse, before you can start reorganizing the network toward balance. The probability of this happening naturally—of people making just the right sequence of friendship-breaking decisions to eventually reach stability—is vanishingly small.
+
+This tells me something important: the way we're solving this problem mathematically probably isn't a good model for how these dynamics actually work in society. People aren't doing rational calculations in their heads about network energy. We're not "Homo Networkbalancicus," any more than we're Homo Economicus. That's something I'll explore in a future post—a better way to model this.
+
+But for now, if we stick with the graph theory, the concept remains the same: to reach a stable state, the community must first pass through a period of increased chaos. Things must get worse before they can get better. Friendships that could have survived must break to resolve the broader pattern. It's not enough for Alice and Dave to drift apart—the entire structure of the social network has to reorganize.
+
+And of course, the ideal solution would be for everyone to agree about Trump—either everyone loves him or everyone hates him. Then the network would naturally balance. But that's not how our world works. The polarization is fixed. People are stuck in their echo chambers, their opinions shaped by media consumption and tribal identity. So given that our model has these fixed edges, the only possible resolution is for the energy and frustration of the entire network to spike upward, and for the community to tear itself apart.
+
+And eventually, it does. Friendships continue to break—Alice with Dave, Bob with Emma, Carol with Frank. The group chat goes quiet. People stop getting invited to things. The community splits.
+
+![Final State: Two-Camp Structure](polarization_demo/02_final_state.png)
+
+In the end, you have two camps. Camp One: Alice, Bob, and Carol—the Trump supporters. They're still friends with each other. Camp Two: Dave, Emma, and Frank—the Trump opponents. They're still friends with each other. But between the camps? Nothing but negative edges. Not just absence of friendship—active hostility. People who used to care about each other now can't stand each other.
+
+And the energy? Zero. Fully balanced. Every triangle resolves: within each camp, everyone agrees (+)(+)(+) = +1. Across camps, it's us against them (+)(−)(−) = +1. Alice loves Trump, hates Dave, Dave hates Trump. Balanced.
+
+The community is "stable" now. The temperature drops. Everyone is comfortable again—as long as they stay within their camp. But this isn't the harmony they started with. This is a cold war. Two mutually exclusive groups, totally antagonistic to each other. And that can be just as dangerous.
+
+---
+
+## The Conquest of Self and Other
 
 But Girard points out that this seemingly innocent phenomenon sits on a continuum. And on the more extreme ends of that same bell curve, we find the exact same mechanism leading to disastrous consequences. Most notably: anorexia. The desire to be thin, fit, attractive, high-class—the very same desire that makes someone order the Brussels sprouts—can escalate to the point where you overcome not just your appetite for sweets, but all appetite. All your animal needs are sacrificed purely in pursuit of the holy grail of thinness, even to the point of extreme ill health and, in some cases, death.
 
 This is where Girard's analysis becomes chilling. The anorexic has overcome the most basic human need of all—the need to survive—out of mimetic desire. Girard compares the anorexic to Napoleon, to Alexander the Great: "In the competition for absolute thinness, the true anorexic is Julius Caesar, Alexander the Great, and Napoleon all rolled into one." This person has maniacally conquered their own being. Every obstacle of appetite, every instinct for survival, left in the dust. They have sacrificed themselves to the conquering of their own body, their own flesh.
 
-  
-<!-- Now take it a step further  into the political realm. .. these previous examples overcame your own body, vain desire and pursuit of prestige ... now we see a new phenomenon emerging where people are willing to sacrifice their needs but for political deities ... the innocuous example of coke ... And maybe we make a political comparison like, and the military comparison, I think, is actually quite apt. Think of what the Great Conquerors had to do. They had to convince not only themselves but others that their pursuits were worth doing. It was worth sacrificing energy, physical suffering, hunger, perhaps even your life itself for a greater cause, for the nation, for country, for glory, for honor. In some cases, that uses the desire for individual prestige to their advantage. In other cases, it's more of a collective pursuit, but there's always a model, and an ideal to pursue, right? The unknown soldier, et cetera. And it's the same mechanism that is used in a simple decision to decide what to eat or what not to eat, which also makes us decide: do we go over into this cause to pursue eternal glory on the battlefield? So to say that the phenomenon described is innocuous would be a great misstep and miss the potential for this dynamic to expand much grander frontiers. -->
+The anorexic declares war on herself. The model becomes the god of thinness—the unattainable ideal. And the enemy? Food. Fat. Sustenance. The very things the body needs to survive. She will deprive herself of what she needs, override every biological signal screaming for nourishment, all in service of this mimetic pursuit.
 
+Now here's the parallel: Once these political relationships become established—once Trump becomes your model or your anti-model, once the other camp becomes the enemy—the same mechanism takes hold. You will deprive yourself of things you need. That Coke you actually enjoyed. Those friendships that mattered to you. The sense of community you once had. You'll give it all up to maintain tribal purity, to stay aligned with your camp, to not betray the cause.
 
+And just as the anorexic conquers her body through extreme deprivation, the political zealot conquers the enemy tribe. The Republican conquers the Democrat. The Democrat conquers the Republican. It's the same mimetic mechanism—the same capacity to override self-preservation, to sacrifice what you need, to declare total war in pursuit of a model and against an enemy.
 
-So why is this important? What is this emblematic of? Why should we pay attention to these sort of silly cultural phenomena? Well, it's because the same mechanism that we describe—where you can overcome your sort of animal taste of liking Coke or hating a Brussels sprout based on your mimetic desire to be healthy or MAGA or anti-Trump—also means that if it escalates, it's that same mechanism which will make it so you can overcome your animal need to survive, of self-preservation, in order for you to be a good member of your political tribe, whether that's right or left.
+This is why it matters. This is why we should pay attention to these seemingly silly cultural phenomena—the Coke boycotts, the Bud Light controversies, the sparkling water instead of soda. Because it's the same mechanism. It's a difference of degree, not of kind.
 
-That's the danger. It's the same mechanism. It's a difference of degree. Now that might sound like a bit of a leap to you, and how exactly we get there and how that works, how this sort of mechanism escalates to violence, is a story for another day. We have more theory to work through, and we have more dynamics to understand before we can get to the point where we genuinely understand how simply boycotting Bud Light or Pepsi or Coke can lead to genuine political violence—how that works, how it has worked in past societies, and how it will work in ours.
+The same dynamic that makes you choose Brussels sprouts over mac and cheese can make you choose your political tribe over your friendships. And if it escalates far enough, it's that same mechanism which will make you overcome your animal need to survive, your instinct for self-preservation, in order to be a good member of your tribe—whether that's left or right.
+
+That's the danger. How exactly this mechanism escalates to violence, how it has worked in past societies, and how it will work in ours—that's a story for another day. We have more theory to work through, and we have more dynamics to understand.
 
 ---
 
