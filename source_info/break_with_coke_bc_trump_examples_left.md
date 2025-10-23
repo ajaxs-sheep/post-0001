@@ -1,0 +1,22 @@
+Yes, there are examples on X and other platforms of people—often identifying as liberals or anti-Trump—stating they've stopped drinking Coke or Diet Coke, or calling for boycotts, due to its association with Trump. This sentiment spiked in January 2025 around Coca-Cola's creation of a commemorative "Inaugural Diet Coke" bottle honoring Trump, which critics viewed as the company pandering to him despite previously condemning January 6. Trump's well-known habit of drinking up to 12 Diet Cokes a day amplified the association, with some explicitly saying it made the product unappealing or "tainted" by his image. While not widespread or organized like other boycotts, these are scattered personal declarations and calls to action. Below, I'll highlight key examples from X posts, Reddit, Facebook, and news reports.
+
+### Reactions to the 2025 Commemorative Inaugural Diet Coke Bottle
+Coca-Cola's CEO personally presented Trump with a custom Diet Coke bottle featuring his name and inauguration date, which drew backlash from anti-Trump users who saw it as corporate "ass-kissing" or a betrayal of the company's prior stance on democracy. This led to explicit boycott calls tied to avoiding Trump-associated products.
+
+- An X user with a pro-Democracy bio posted: "BOYCOTT COKE!!! Look at this disgusting display of the filthy rich obeying Trump in advance by giving him a special inaugural bottle of Diet Coke. Which they have never done for any previous president."
+- Another anti-Trump account declared: "FROM HERE ON OUT, MAKE MINE A PEPSI" in response to the bottle, citing it as a "disgraceful move by Coca-Cola" and urging others to switch.
+- A user identifying as a California Democrat wrote: "BOYCOTT ALL COKE PRODUCTS... Well, I guess it's Diet Pepsi for me," linking to the Raw Story article on the bottle and framing it as Coke "sucking up" to Trump.
+- On Facebook, a group post noted: "Coca-Cola CEO James Quincy made the Mar-a-Lago ass kissing pilgrimage to give Trump a commemorative Inauguration Day Diet Coke bottle," sparking comments about boycotting the brand over the Trump tie-in.
+- A Reddit thread on the event included: "Coke is garbage. It's nothing but a bunch of disease promoting chemicals. We need to find out what else they make to make a boycott really hurt," with users tying the anger to Coke's gesture toward Trump.
+- Another X post from a liberal-leaning account said: "Bye, bye Coke. That coke for Trump will cost you millions of $$$ because of a boycott. #FuckCocaCola," directly in response to the commemorative bottle news.
+- One user added: "I don’t drink Coca-Cola but I’m sure they have other products and brands I can boycott. Fucking greedy corporations," calling the bottle a reversal on Coke's J6 condemnation and linking it to Trump loyalty.
+
+### Other Anecdotal or General Associations
+Beyond the 2025 bottle, some posts reference Trump's Diet Coke habit more broadly as a turn-off, often in the context of his health or personality.
+
+- An X user quipped about the bottle: "Doesn't Diet Coke support DEI? 🤣😇 A while back, Trump wanted his followers to boycott Diet Coke and his followers called it woke-a-cola. Now it's all good because of the Presidential Commemorative inauguration Diet Coke? As long as people kiss his ring, I guess," highlighting irony but implying aversion to the Trump link.
+- In a 2024 satirical post, The Halfway Post claimed: "BREAKING: Diet Coke has reportedly sent Donald Trump a cease-and-desist letter," playing on the idea of distancing from him, which resonated with anti-Trump users.
+- A liberal account shared the Raw Story article with: "Coca-Cola sucks up to Donald (shocker) with commemorative 'Inaugural Diet Coke' — 4 years after condemning J6," implying disgust that could lead to avoidance.
+- On Reddit, users speculated: "Im sure some people will boycott coke the same way conservatives boycotted bud light," in discussions about the bottle as pandering to Trump.
+
+These instances are mostly from early 2025, showing a pattern where the Trump-Diet Coke connection prompts symbolic rejections, similar to other politically motivated boycotts (e.g., Bud Light). However, not all anti-Trump users agreed—one countered: "Boycott the event not the soda," noting Coke has done commemorative bottles before, just not Diet Coke for Trump. Broader reports suggest these boycotts had minimal impact on sales, much like past ones. If you want deeper dives into specific posts or more searches, let me know!
