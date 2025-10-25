@@ -26,11 +26,7 @@ The reason people work out, what's been made out to seem, is that they do it for
 
 Girard writes:
 
-> In order to cope with the thinness imperative without getting involved in practices that endanger their health or destroy their self-respect, many people have a secret weapon: they exercise. Much of their time is spent walking, running, jogging, bicycling, swimming, jumping, climbing mountains, and practicing other horribly boring and strenuous activities for the sole purpose of eliminating unwanted calories.
-
-And he continues:
-
-> The irritating aspect of exercise is its politically correct justification in terms of outdoor living, communion with nature, the earth mother, Thoreau, Rousseau, ecology, healthy living... The only real motivation is the desire to lose weight.
+> The irritating aspect of exercise is its politically correct justification in terms of outdoor living, communion with nature, the earth mother, Thoreau, Rousseau, ecology, healthy living...The only real motivation is the desire to lose weight.
 
 But here I think Girard oversimplifies and does himself a disservice. The reason people exercise is not purely this mechanical desire to be skinny, to burn calories. When you see that other person in the gym, when you see the colleague at work who's running the marathon, when you see on social media someone going for a hike over the weekend, when you see the Red Bull skier skiing down K2, you don't just want to do those things because they burn calories. You want to be like the person who does those things—or more precisely, you want to be the sort of person who could do something like that.
 
@@ -173,3 +169,7 @@ As one lackluster Canadian rapper once said, "Tensions is definitely rising." Th
 But friends, newcomers, hopefully this post was not too gloom and doom! I promise that the purpose of this project is not pure apocolyism, but we are searching for how to cure ourselves of this contagion as well. Thank you for reading my first post of a publication I'm calling **Political Atheism**, a title which, to those who know Girard's theory, is hopefully clear. To those who do not, I will explain at some point. I thank you for taking the time to read. I'm hoping to find the time to do posts like these frequently enough, so if you aren't already, go ahead and subscribe. I think that given this crazy state of the world, these are important ideas to be exploring. And I welcome any feedback, thoughts, or comments. If you know me and are interested in this kind of thing, feel free to reach out personally; I'd love to discuss. 
 
 -Best, Ajax's Sheep.
+
+---
+
+This post is available at [https://github.com/ajaxs-sheep/post-0001](https://github.com/ajaxs-sheep/post-0001), along with a full version history and sources.
