@@ -1,0 +1,30 @@
+{
+  "trajectory": [
+    9,
+    12,
+    13,
+    12,
+    13,
+    12,
+    11,
+    8,
+    5,
+    0
+  ],
+  "parameters": {
+    "mode": "2-camp",
+    "selection_mode": "stochastic",
+    "temperature": 50.0,
+    "cooling_rate": 0.98,
+    "max_iterations": 5000,
+    "exploration_probability": 0.1,
+    "no_takebacks": true
+  },
+  "summary": {
+    "initial_energy": 9,
+    "final_energy": 0,
+    "peak_energy": 13,
+    "num_flips": 9,
+    "trajectory_string": "9 \u2192 12 \u2192 13 \u2192 12 \u2192 13 \u2192 12 \u2192 11 \u2192 8 \u2192 5 \u2192 0"
+  }
+}
