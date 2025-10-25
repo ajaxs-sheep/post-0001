@@ -1,6 +1,6 @@
-# Coke or Sparkling Water?
+# Why Coke Tastes Like Trump and Bud Light like Dylan Mulvaney
 
-## An examination of why we desire what we desire
+## How Mimetic Desire tears Communities apart
 
 ![Trump and Coca-Cola CEO with Inaugural Diet Coke Bottle](source_info/coke_boycott_social_media_examples/Screenshot%202025-10-18%20at%2011.00.39.png)
 
@@ -18,11 +18,9 @@ But Landy's asking the wrong question. The fact that this child wasn't converted
 
 ---
 
-## The Devil in the Sauna
+## The Thinness Imperative
 
 I was at the gym the other day, and there was a gentleman in the sauna who was quite talkative. He said to the guy next to him, "I just love a Monday workout because on Mondays you don't really have to go to the gym, and the Devil is whispering in your ear, 'just go home.' But then you go anyway, you get the work in, you feel great." This gentleman also happened to have a tattoo of the cross on his left forearm.
-
-Funnily enough, I had just listened to René Girard's essay on anorexia during my workout. And I've now come to understand that perhaps the devil was at work in that very sauna—but not in the way this gentleman thought.
 
 The reason people work out, what's been made out to seem, is that they do it for their health. They eat well, run, hike, bike—all supposedly for their health. Not only are all these phenomena of exercise totally modern in nature, but they're also extraordinarily strenuous, tiring, and in the moment, physically unpleasant. They're miserable. If such activities were a food, they might be a Brussels sprout. Girard links this exercise contagion to what he calls "the thinness imperative."
 
@@ -38,11 +36,13 @@ But here I think Girard oversimplifies and does himself a disservice. The reason
 
 Such activities come with an aura of prestige and accomplishment, not just "thinness." The people in our society who do these things are viewed as accomplished. They're the same people who go to the gym and get shredded. They're disciplined, successful, typically wealthy, high-class. And you want to be like them—to be looked at the way you look at them.
 
-Despite this oversimplification, Girard actually points to something that highlights this broader model worship beyond just the body. He traces the origins of the thinness imperative to the aristocracy of 19th century Europe, specifically to Elisabeth of Austria, the wife of Emperor Franz Joseph, better known as Sisi. She was not only physically fit, slim, dedicated to gymnastics and various sports, but she also "presented herself as a 'new woman,'" seeking "an identity of her own... in a special body culture which made her into the prototype of the modern 'advanced' woman."
+Despite this oversimplification, Girard actually points to something that highlights this broader model worship beyond just the body. He traces the origins of our modern conception of the thinness imperative to the aristocracy of 19th century Europe, specifically to Elisabeth of Austria, the wife of Emperor Franz Joseph, better known as Sisi. She was not only physically fit, slim, dedicated to gymnastics and various sports, but she also "presented herself as a 'new woman,'" seeking "an identity of her own... in a special body culture which made her into the prototype of the modern 'advanced' woman."
 
-Sisi triggered "a pattern of mimetic rivalry among the numerous aristocratic ladies who had nothing to do but to look up to Sisi and Eugenie [Empress of France] and copy their behavior down to the last detail." This mimetic rivalry has been "widening and intensifying ever since," writes Girard. "After World War I, the escalation reached the middle class and after World War II, at least in the opulent West, it spread to all social classes." What began with two empresses comparing waistlines in a private room has cascaded down through society until now hundreds of Sisyphean characters run loops in Central Park at all hours of the day.
+Sisi triggered "a pattern of mimetic rivalry among the numerous aristocratic ladies who had nothing to do but to look up to Sisi and Eugenie [Empress of France] and copy their behavior down to the last detail." This mimetic rivalry has been "widening and intensifying ever since," writes Girard. "After World War I, the escalation reached the middle class and after World War II, at least in the opulent West, it spread to all social classes." What began with two empresses comparing waistlines in a private room has cascaded down through society until now hundreds of Sisyphean characters run loops in Central Park at all hours of the day—they order Sweetgreen for lunch, they drink Spindrifts or La Croix, they order Brussels sprouts not mac and cheese.
 
-In all these cases—the Sweetgreen lunch, the Brussels sprout appetizer, the sparkling water instead of Coke—these people are overcoming their natural inclinations and animal appetites. An animal has the instinct to eat things that are caloric, not to exert energy without return, to drink things that are sweet and sugary. But here we see people doing the opposite: choosing things that are objectively harder, less pleasant, more effortful, purely to satisfy their mimetic desires.
+In all of the above cases, these people are overcoming their natural inclinations and animal appetites. An animal has the instinct to eat things that are caloric, not to exert energy without return, to drink things that are sweet and sugary. But here we see people doing the opposite: choosing things that are objectively harder, less pleasant, eating things that are less tasty, purely to satisfy their mimetic desires, to appear both to others and themselves as "health-conscious."
+
+(The well-versed, fancy-restaurant-attending reader, may object that the typical Brussels sprouts appetizer is not healthy at all; that it is instead an unholy mess of oil and bacon bits, and they would be right. But, this in fact enhances our argument: the dish gives the illusion of being healthy given its association with a healthy food item, while it has the added benefit of tasting fantastic. It's all the healthiness without any of the sacrifice!)
 
 ## The friend of my enemy is my enemy
 
@@ -52,11 +52,11 @@ The classic example was the Bud Light boycott. Individuals on the right stopped 
 
 Take another example, another drink-based one. When the CEO of Coca-Cola presented Donald Trump at the White House with an inaugural Diet Coke bottle—because Trump allegedly drinks 12 Diet Cokes a day and has a button where he presses it and gets a Diet Coke—people on the left were obviously not happy about this. There were calls on social media to boycott Coke, people saying, "This is the last Coke I'll drink. Switching to Pepsi."
 
-This is where Landy's critique totally falls apart. Remember, Landy argues that people do things because of their intrinisic value. He writes: "I can drink Coke, as Penélope Cruz appears to be urging, or Pepsi, following the promptings of Cindy Crawford. (I can even stick to water, following my doctor's more sensible advice.) ... the reason people keep coming back for more is not that they keep seeing commercials; it is that they enjoy the product."
+Landy actually discusses the Coke v. Pepsi example in his critque of Girard, arguing that the reason people drink Coke is not really because of the mimetic advertising or you modeling yourself off of a friend who drinks Coke; it's that you just simply "enjoy the product."
 
-But here we have people who really liked Coke. They thought it tasted good. And the only reason they're giving it up is this political dimension. What's forming their opinion of the product is not the actual sensation, not the chemical experience of tasting it. It's purely this mimetic dimension.
+But in our example, this critique totally breaks down. Here we have people who really liked Coke. They thought it tasted good; they liked the product. And the only reason they're giving it up is this political dimension. What's forming their opinion of the product is not the actual sensation, not the chemical experience of tasting it, it's something else entirely.
 
-To understand this further we need to dive into a somewhat novel combination of theories. The first is Girard's subject-model-object framework, in which (in the base case) the subject wants to be like the model, the model desires the object, so then the subject desires the object. This forms a relational triangle. Girard first applied this framework to understanding instances of mimetic desire some of the Great Works of Western Literature.
+To understand what that something else is, we need to dive into a couple of theories. The first is Girard's subject-model-object framework, in which (in the base case) the subject wants to be like the model, the model desires the object, so then the subject mimeticly desires the object. This forms a relational triangle. Girard first applied this framework to understanding instances of mimetic desire some of the Great Works of Western Literature.
 
 The second is a theory in the field of social networks that was developed completely independently of Girard's work in the 1950s and on a completely different set of assumptions: [balance theory](https://en.wikipedia.org/wiki/Balance_theory). Balance theory is a mathematical framework for understanding the "stability" of social networks.
 
@@ -78,11 +78,11 @@ The same dynamic plays out with ++-. You have a friend, someone you model yourse
 
 Now you might object here: okay, I see your logic, but does this happen in *every* case? Do you take every single thing a person you like likes and copy it? The answer of course is no. But that's because a simple -1, +1 binary of like and dislike is overly simplistic, we are looking in our examples at the most extreme and isolated cases. All of these likes and dislikes could be modeled on a spectrum, with most things hanging around zero, neutral territory. The graph only becomes activated in this way when edges start drifting towards the extremes, where people don't just simply like other people but fully model themselves after them, or when people are so hateful of others that they define themselves in opposition to them, and when they act out these mimetic tendencies publicly and often obnoxiously.
 
-That brings us back to the Trump era and to Trump himself—one such figure who incites in people such extreme sentiments, +1 or -1. 
+That brings us to the Trump era and to Trump himself—one such figure who incites in people such extreme sentiments, +1 or -1. 
 
 In our Trump-Coke example, we have the subject—your average liberal, the model (or in this case antimodel) of Trump, and Coke,the object. The liberal doesn't like Trump (-), Trump likes Coke (+), and the liberal, let's say, initially likes Coke (+). These things may have lived in isolation from each other when neither the liberal nor Trump defined themselves based on their love of Coke. But, as the degree of the like edge between Trump and Coke increased, representing not just Trump's surface-level like or dislike of the product, but rather his public association with the brand, as more tales of his coke button were told, and the ceremonial coke was presented that mimetic edge increases in degree.
 
-So now we have a triangle where we have one strong positive edge between Trump and Coke. and obviously one strong negative edge between the liberal and Trump, as well as a neutral/positive edge between the liberal and Coke. So that's ++-. Suddenly, the liberal is in a bind: do they continue liking Coke in spite of Trump's public pronouncement of his love for it? Or most likely, they aren't even thinking about Coke at all, they just see Trump's association with it and they, so caught up in the throes of anti-mimesis, instinctively form a hatred of Coke. And they do not just keep this hatred to themselves...they post about it, publicly.
+So now we have a triangle where we have one strong positive edge between Trump and Coke. and one strong negative edge between the liberal and Trump, as well as a neutral/positive edge between the liberal and Coke. So that's ++-. Suddenly, the liberal is in a bind: do they continue liking Coke in spite of Trump's public pronouncement of his love for it? Or most likely, they aren't even thinking about Coke at all, they just see Trump's association with it and they, so caught up in the throes of anti-mimesis, instinctively form a hatred of Coke. And they do not just keep this hatred to themselves...they post about it, publicly.
 
 ![Boycott Coke social media posts](source_info/coke_boycott_social_media_examples/Screenshot%202025-10-18%20at%2011.00.04.png)
 
@@ -102,8 +102,6 @@ But we've just been focussed on a single triangle (boring!). How about we scale 
 
 ## How Polarization Tears Communities Apart
 
-(To see the code for this case study, see [my other github repo](https://github.com/ajaxs-sheep/balance-theory))
-
 Think about a friend group. Six people who've known each other for years. They have dinners together, go on trips, celebrate birthdays.
 
 But then Trump comes into the picture: three of them love Trump, and three of them hate him.
@@ -112,7 +110,7 @@ But then Trump comes into the picture: three of them love Trump, and three of th
 
 Let's zoom in on two friends: Alice and Dave. They've been friends since college and are in several group chats together; but now, Alice loves Trump and Dave can't stand him. And again this is a "like" or "dislike" that is not just a private opinion, but a public one—Alice makes not-so-subtle references to Trump's accomplishments, while Dave can't go through a dinner without complaining about the state of the country under Trump.
 
-So here again we find ourselves with another untenable relational triangle: ++-. This one is all the more contentious because each edge has serious emotional weight attached to it, including the friendship edge between Alice and Dave themselves. But, as we who live in this political climate know, it is hard if not impossible to be friends with someone who loves a politician you despise. (It should quickly be noted also that the fact that Trump is the polarizing figure is irrelevant; the mechanism is the same whether it's Trump or Pelosi or whoever else.) 
+So here again we find ourselves with another set of untenable triangular relations: ++-. This case is all the more contentious because each edge has serious emotional weight attached to it, including the friendship edge between Alice and Dave themselves. But, as we who live in this political climate know, it is hard if not impossible to be friends with someone who loves a politician you despise. (It should quickly be noted also that the fact that Trump is the polarizing figure is irrelevant; the mechanism is the same whether it's Trump or Pelosi or whichever celebrity acts as polarizer. What's important is that this figure incites extreme opinions across the entire community.) 
 
 Because neither one of them is willing to compromise vis-a-vis Trump, the friendship becomes unsustainable. This is not because Alice and Dave don't care about each other, rather there exists now a fundamental disagreement about a polarizing figure creates a tension that pervades everything. They can't talk about politics. One of them is always biting their tongue. Every news cycle is a minefield. And suddenly hanging out with each other becomes a labor.
 
@@ -128,21 +126,11 @@ Now let's say Alice and Dave break off their friendship. The problem is they don
 
 ![Temperature Dynamics: The Path to Polarization](case_studies/6person_polarization/energy_trajectory.png)
 
-The normal way you'd solve a problem like this—finding a configuration where all triangles are tenable—is through something called gradient descent, a technique used in machine learning algorithms. The idea is simple: you look for a move that takes the temperature of the whole network come down. In this case, a "move" means flipping an edge—breaking a friendship (+ -> -) or making a new one (- -> +). You scan through all possible moves, find the one that reduces the solves the most unbalanced triangles, make that move, and repeat. It's a rational, systematic way to resolve mimetic contradictions.
-
-The problem is this method completely breaks down when there are no moves that lower the temperature. And in our Trump friend group scenario, that's exactly what happens. Not only is there no move that lowers the temperature—every single possible move makes things worse initially. (For the more circumspect readers among you, remember that we are assuming that the Trump edges are "fixed.")
-
-When the first friendship breaks, the temperature actually goes up—from 9 to 12. More people get upset. More relationships become strained. It feels like the community is falling apart, and in a sense, it is. The second break makes it worse still: temperature climbs to 15.
-
-The only way to escape this trap is through something called hill climbing. You have to accept "irrational" moves that make things worse, hoping that if you climb high enough, you'll find a path down the other side to a better state. In practice, this means introducing some random probability that you'll make an irrational move—breaking a friendship even though it increases tension—just to escape being stuck.
-
-But here's the thing: the hill you have to climb in this scenario is dramatic. It requires multiple seemingly irrational moves in sequence, even when there are temperature reducing moves available, each one making things worse, before you can start reorganizing the network toward balance. The probability of this happening naturally—of people making just the right sequence of friendship-breaking decisions to eventually reach stability—is vanishingly small (out of the 200 runs we did on this 6 person+Trump example, only 14 reached the temperature of 0, a success rate of 7%).
-
-(As an aside, the way we're solving this problem mathematically probably isn't a good model for how these dynamics actually work in society. People aren't doing rational calculations in their heads about network energy. We're not "Homo Networkbalancus," any more than we're Homo Economicus. This is something I'll explore in a future post—a better, less computationally expensive way to model mimetic contagion.)
+(To see the code for this case study, see [my other github repo](https://github.com/ajaxs-sheep/balance-theory). We will discuss this modeling process in a future post.)
 
 So, we find that for the community to reach a configuration where all triangular relations are tenable, it must first pass through a period of increased chaos. Things must get worse before they can get better. Friendships that could have survived must break to resolve the broader pattern. It's not enough for Alice and Dave to drift apart—the entire structure of the social network has to reorganize.
 
-And of course, the ideal solution would be for everyone to agree about Trump—either everyone loves him or everyone hates him. Then all triangles would naturally be tenable, with Trump as scapegoat (also to be discussed in a future post). But, in our political climate, people are stuck in their echo chambers, their opinions shaped by media consumption and tribal identity. So given that the Trump edges are fixed, the only possible resolution is for the mimetic tension of the entire network to spike upward, and for the community to tear itself apart.
+And of course, the ideal solution would be for everyone to agree about Trump—either everyone loves him or everyone hates him. Then all triangles would balance themselves out, with Trump as scapegoat (to be discussed in a future post). But, in our political climate, people are stuck in their echo chambers, their opinions shaped by media consumption and tribal identity. So given that the Trump edges are fixed, the only possible resolution is for the mimetic tension of the entire network to spike upward, and for the community to tear itself apart.
 
 And eventually, it does. Friendships continue to break—Alice with Dave, Bob with Emma, Carol with Frank. The group chat goes quiet. People stop getting invited to things. The community splits.
 
@@ -166,15 +154,15 @@ But in this realm of deprivation in the pursuit of "thinness", there's an extrem
 
 In this case, the anorexic has—out of mimetic desire—overcome the most basic human need of all: the need to survive. "In the competition for absolute thinness," writes Girard, " the true anorexic is Julius Caesar, Alexander the Great, and Napoleon all rolled into one." This person has maniacally conquered their own being. Every obstacle of appetite, every instinct for survival, subjugated. They have conquered every ounce of their fat and sinew, and sacrificed themselves on the altar of thinness.
 
-If we return back to our relational triangles, the anorexic is caught up in a meta relationship with the model of thinness (+), shaped by both her mimetic desire to be like other people for thin and to be associated with their class and status. Thinness hates fat, food, appetites (-), so the anorexic equally despises these objects herself. So, we have +--, the anorexic and thinness against food, appetites. 
+If we apply this example to our relational triangles, the anorexic is caught up in a meta relationship with the model of thinness (+), shaped by both her mimetic desire to be like other people who are thin and to be associated with their class and status. Thinness hates fat, food, appetites (-), so the anorexic equally despises these objects herself. So, we have +--, the anorexic and thinness against food, appetites. 
 
 In the political arena we see the same +-- modeling dynamic occur everyday: I like Trump, Trump hates libs so I hate libs; I hate Trump, Trump likes rednecks, so I hate rednecks. As this modeling/antimodeling becomes more and more extreme, the contempt for hated object, the "other" becomes increasingly zealous.
 
-If you're just choosing between Coke and Bud Light, it seems pretty innocuous; but when you're trapped in those throes, when your political relationships come to define you, you can escalate to extremes. You get to the point where you're sacrificing your quality of life, your sanity, your morals all in order to satisfy the mimetic desire of modeling yourself after your in-group, your leader, your comrades in arms, and in modeling yourself against your out-group, your most hated politician, the enemy. What the anorexic is to the gym-goer, the partisan warrior is to the casual voter.
+If you're just choosing between Coke and Bud Light, it seems pretty innocuous; but when you're trapped in those throes, when your political relationships come to define you, you can escalate to extremes. As people and communities define themselves increasingly in opposition to their political enemies, that mimetic modeling can escalate to violence. It starts with social media scuffles, but quickly bleeds into protests and counter-protests, to solo acts of political violence, to organized violence, to war.
 
-And just as the anorexic conquers her body through extreme deprivation, the political zealot can deprive themselves of everything they need to survive in order to conquer the enemy. "Conquering" at first means culture war, social media scuffles, but this quickly bleeds into protests and counter-protests, riots and their reactionaries, and eventually, this is the same mechanism by which individuals are recruited to leave their homes, families, jobs, dinners, lives, and communities to fight in a "just" total war against an "evil" enemy.
+And so, just as the anorexic is willing to sacrifice her body to the cult of thinness, so too will the political zealot put their life on the line in support of their ideological Crusade.
 
-Now the world is more complicated than Republican vs. Democrat. There are other camps forming (US vs. China, etc.), and who knows which contemptuous force will win out over the others, which model of hate will prove the most persuasive and unifying? Regardless of the content of the nodes, the mechanism is the same: the Devil is in the negative edges, in every accusation, in every attack, in every mimicry of hate—it's the same mimetic mechanism at work. 
+Now the world is more complicated than Republican vs. Democrat. There are other camps forming (US vs. China, etc.), and who knows which contemptuous force will win out over the others, which friend-enemy distinction will prove the most persuasive and unifying? Regardless of the content of the nodes, the mechanism is the same: the Devil is in the negative edges, in every accusation, in every attack, in every mimicry of hate—it's the same mimetic mechanism at work. 
 
 We have seen how in our 6 person example this contagion quickly spreads, of temperatures rising, of the community tearing itself apart. Now imagine 7 billion nodes of our interconnected world and the many relations among them, and with every news cycle and accusation, the contagion spreading and sucking up the whole of humanity in a whirlpool of chaos. Even if our collective social graph were "balanced," that is totally polarized, we know that such an outcome would only mean an order of destruction.
 
