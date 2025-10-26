@@ -1,6 +1,6 @@
-# Why Coke Tastes Like Trump and Bud Light like Dylan Mulvaney
+# Why Your Politics Decides What You Drink
 
-## How Mimetic Desire tears Communities apart
+## How Mimetic Desire goes from Brussels sprouts and Bud Light boycotts to dead group chats and ideological Crusade
 
 ![Trump and Coca-Cola CEO with Inaugural Diet Coke Bottle](source_info/coke_boycott_social_media_examples/Screenshot%202025-10-18%20at%2011.00.39.png)
 
